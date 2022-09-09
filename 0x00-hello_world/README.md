@@ -1,1 +1,1 @@
-print exactly and that piece of art is useful" - Dora Korpar, 2015-10-19
+print  exactly "Programming is like building a multilingual puzzle

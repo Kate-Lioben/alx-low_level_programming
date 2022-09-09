@@ -1,37 +1,19 @@
 /*
-
- * File: 5-printf.c
-
+ * File: 4-puts.c
  * Auth: kate kamau
-
  */
-
-
 
 #include <stdio.h>
 
-
-
 /**
-
- * main - Prints "with proper grammar, but the outcome is
-
- *                a piece of art," followed by a new line.
-
+ * main - Prints "Programming is like building a multilingual
+ *                puzzle, followed by a new line.
  *
-
  * Return: Always 0.
-
  */
-
 int main(void)
-  
 {
-  
-  printf("with proper grammar, but the outcome is a piece of art,\n");
-  
+puts("\"Programming is like building a multilingual puzzle");
 
-  
-  return (0);
-  
+return (0);
 }
