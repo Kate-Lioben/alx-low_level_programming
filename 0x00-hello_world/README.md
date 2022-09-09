@@ -1,1 +1,1 @@
-compily a C file and creates an executable named cisfun
+comply a C file and creates an executable named cisfun
