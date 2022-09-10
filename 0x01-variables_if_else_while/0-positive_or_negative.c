@@ -1,54 +1,49 @@
-Variables, if, else, while
 #include <stdlib.h>
 
 #include <time.h>
 
+/* is it positive or negative */
+
+
+
 /* betty style doc for function main goes there */
-
-/**
-
- * main - Entry point
-
- *
-
- * Return: Always 0 (Success)
-
- */
 
 int main(void)
 
 {
 
-int n;
+README.md int n;
 
-srand(time(0));
 
-n = rand() - RAND_MAX / 2;
 
-if (n > 0)
+README.md srand(time(0));
 
-{
+README.md n = rand() - RAND_MAX / 2;
 
-printf("%i is positive\n", n);
+README.md /* if (n > 0)
 
-}
+README.md {
 
-else if (n == 0)
+README.md README.md printf("%i is positive\n", n);
 
-{
+README.md }
 
-printf("%i is zero\n", n);
+README.md else if (n == 0)
 
-}
+README.md {
 
-else if (n < 0)
+README.md README.md printf("%i is zero\n", n);
 
-0-positive_or_negative.c {
+README.md }
 
-printf("%i is negative\n", n);
+README.md else if (n < 0)
 
-}
+README.md {
 
-return (0);
+README.md README.md printf("%i is negative\n", n);
+
+README.md } */
+
+README.md return (0);
 
 }
